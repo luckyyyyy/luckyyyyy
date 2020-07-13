@@ -1,2 +1,3 @@
-[avatar](https://williamchan.me/assets/avatar.png)
+![avatar](https://williamchan.me/assets/avatar.png)
+
 Full Stack Developer / Software Engineer
