@@ -1,4 +1,4 @@
-Full Stack Developer / Software Engineer
+Full Stack Developer / Software Engineer / Technical Product Manager
 
 (*^▽^*)
 
